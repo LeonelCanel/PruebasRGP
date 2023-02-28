@@ -57,6 +57,19 @@
       condimentum nec, nisi.
     </v-alert>
   </div>
+
+
+
+  <div>
+    <v-alert
+        border="left"
+        colored-border
+        color="deep-purple accent-4"
+        elevation="2"
+    >
+      Alertas nuevas para el repositorio central
+    </v-alert>
+  </div>
 </template>
 
 <script>
